@@ -15,6 +15,7 @@ colorama = "^0.4.6"
 consoleformat = {git = "https://github.com/aledima00/ConsoleFormat.git"}
 numpy = "^2.2.2"
 tqdm = "^4.67.1"
+ipykernel = "^6.29.5"
 
 
 [tool.poetry.group.dev.dependencies]
