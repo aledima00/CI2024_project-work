@@ -3,7 +3,6 @@ from symgp import BaseModel
 import numpy as np
 import os
 from tqdm.auto import tqdm
-import beepy
 
 FNAME = "./s314935.py"
 
