@@ -1,6 +1,18 @@
 # CI2024_project-work
 Project Work for the exam of Computational Intelligence Course of 2024/2025 @ PoliTo
 
+## Insallation
+
+This project is based on poetry: once cloned the repo, dependency can be runned simply via the poetry cli:
+
+```bash
+git clone https://github.com/aledima00/CI2024_project-work.git
+cd CI2024_project-work
+poetry install
+```
+
+After that, the clone is fully functional and it is possible to run both [main.py](src/main.py) and [main.ipynb](src/main.ipynb), or to design a custom file using the repo APIs.
+
 ## Overview
 
 This project focuses on Symbolic Regression using Genetic Programming (GP) in Python. The goal is to evolve mathematical expressions that best fit given data, including all the functions (or most of them) from the `numpy` library.
