@@ -1,0 +1,2 @@
+This project includes third-party dependencies as outlined in the NOTICE file of [symgp](https://github.com/aledima00/symgp).
+A copy of the NOTICE file can be found at [src/NOTICE.md](./src/NOTICE.md).
